@@ -1,0 +1,42 @@
+var components = [
+  "Type4" : [
+          "code" : "IRF520",
+          "desc" : "HEXFET Power MOSFET",
+          "VDSS" : "100V",
+          "RDS" : "0.27OHM",
+          "ID" : "9.2A"
+          "datasheet" : "http://media.nkcelectronics.com/datasheet/irf520.pdf" 
+  ],
+  "Type2" : [
+          "code" : "SM-S2309S",
+          "desc" : "Micro analog servo",
+          "Speed" : "0.11 sec/60deg",
+          "Torque" : "1.1 kg*cm",
+          "Rotation Angle" : "+/- 60deg",
+          "datasheet" : "http://descargas.cetronic.es/microservo.pdf"
+  ],
+  "Type3" : [
+          "code" : "ACP CA6V 10K",
+          "desc" : "Mounting Potentiometer",
+          "Standard" : "6mm",
+          "Tolerance" : "+/-20%",
+          "Power" : "100mW",
+          "datasheet" : "https://www.tme.eu/html/EN/acp-trimmers-ca6-series/ramka_282_EN_pelny.html"
+  ],
+  "Type1" : [ 
+          "code" : "2097",
+          "desc" : "Touchscreen Display",
+          "Size" : "3.5",
+          "Pixel" : "320X480",
+          "Viewing Direction" : "6 o'clock",
+          "datasheet" : "https://cdn-shop.adafruit.com/datasheets/Adafruit35inTFT.pdf"
+  ],
+   "Type5" : [ 
+          "code" : "PIC10F200",
+          "desc" : "8-Bit Flash Microcontroller",
+          "Program Memory" : "256 Flash (words)",
+          "Data Memory" : "16 SRAM (bytes)",
+          "I/O" : "4",
+          "datasheet" : "http://ww1.microchip.com/downloads/en/DeviceDoc/40001239F.pdf"
+  ] 
+]
