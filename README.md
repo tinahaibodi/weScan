@@ -30,15 +30,15 @@ We learned how to integrate Sketch components, TensorFlow ML models, CoreML mode
 ## What's next for weScan
 The future vision for weScan is having the products that are identified through Object Recognition pop up 3-D in Augmented Reality. Alongside, having specs that would include documentation that you could click on about the product in real-time. 
 
-<a href="http://tinypic.com?ref=jhg020" target="_blank"><img src="http://i65.tinypic.com/jhg020.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<center><a href="http://tinypic.com?ref=jhg020" target="_blank"><img src="http://i65.tinypic.com/jhg020.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<p><a href="http://tinypic.com?ref=2e38gvp" target="_blank"><img src="http://i66.tinypic.com/2e38gvp.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<center><p><a href="http://tinypic.com?ref=2e38gvp" target="_blank"><img src="http://i66.tinypic.com/2e38gvp.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<center><p><a href="http://tinypic.com?ref=2z9bert" target="_blank"><img src="http://i66.tinypic.com/2z9bert.png" border="0" alt="Image and video hosting by TinyPic"></a>
   
-<p><a href="http://tinypic.com?ref=2z9bert" target="_blank"><img src="http://i66.tinypic.com/2z9bert.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<center><p><a href="http://tinypic.com?ref=aev537" target="_blank"><img src="http://i65.tinypic.com/aev537.png" border="0" alt="Image and video hosting by TinyPic"></a>
   
-<p><a href="http://tinypic.com?ref=aev537" target="_blank"><img src="http://i65.tinypic.com/aev537.png" border="0" alt="Image and video hosting by TinyPic"></a>
-  
-<p><a href="http://tinypic.com?ref=j8ckcl" target="_blank"><img src="http://i67.tinypic.com/j8ckcl.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<center><a href="http://tinypic.com?ref=j8ckcl" target="_blank"><img src="http://i67.tinypic.com/j8ckcl.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 
