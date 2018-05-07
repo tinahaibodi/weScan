@@ -7,7 +7,7 @@ After touring the L3 Wescam facilities in Burlington, Ontario we all noticed how
 Acknowledging this, we wanted to create a platform that helps empower engineers throughout the design process. 
 
 ## What it does
-wARdrobe is an iOS Augmented Reality application built using Apple's ARKit, CoreML models in iOS, TensorFlow, Microsoft Custom Vision, and Sketch.  
+weScan is an iOS Augmented Reality application built using Apple's ARKit, CoreML models in iOS, TensorFlow, Microsoft Custom Vision, and Sketch.  
 
 On opening the app, there is a camera view in the room with a dashboard and product inventory at the top. Upon moving the camera, you are given the ability to move the screen on top of hardware products to recieve information about whether they are ready to be shipped (box emoji) or need to be repaired (tool emoji) and the name of the product (identified through the neural network trained by our dataset in our TensorFlow and integrated with Microsoft's Custom Vision AI API). 
 
