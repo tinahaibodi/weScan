@@ -11,7 +11,7 @@ wARdrobe is an iOS Augmented Reality application built using Apple's ARKit, Core
 
 On opening the app, there is a camera view in the room with a dashboard and product inventory at the top. Upon moving the camera, you are given the ability to move the screen on top of hardware products to recieve information about whether they are ready to be shipped (box emoji) or need to be repaired (tool emoji) and the name of the product (identified through the neural network trained by our dataset in our TensorFlow and integrated with Microsoft's Custom Vision AI API). 
 
-Moving the camera around the room, then you will be an augmented reality "portal" where you have the ability to view your prototypes in 3D Augmented Reality.
+Moving the camera around the room, then you will be an augmented reality where you have the ability to view your prototypes in 3D Augmented Reality.
 
 ## How I built it
 We built weScan with Apple's iOS ARKit, Tensor Flow, the Microsoft Custom Vision API, CocoaPods, AlamoFire CocoaPods, and CoreML Models. We integrated all of the following with the AR to create a comprehensive visual display with helpful information. 
@@ -19,16 +19,16 @@ We built weScan with Apple's iOS ARKit, Tensor Flow, the Microsoft Custom Vision
 ## Challenges I ran into
 As noted below, we came across challenges when learning how to integrate ARKit and CoreML models with our TensorFlow dataset into ARKIT. As the integrations with AR Kit are farely new and there is limited documentation on ARKit using  TensorFlow, we struggled to integrate the ML components into the iOS environment.
 
-Upon first making the application, we tried to use Microsoft Azure and OpenCV to integrate video frames of the movies into the Augmented Reality application as well but since there is limited documentation on it (since it has never been done before) outside of MatLab, we would love to revisit the idea and integrate the feature in the future. One of the problems that we came across upon development is the dependencies in software and the fact that the frames would have to be imported in singularity through OpenCV because integrating MatLab with Apple's AR Kit did not allow for logical testing.
+Upon first making the application, we created our own dataset and then trained the dataset using TensorFlow's Object Recognition model in Jupyter Notebook. We then exported the ML model with a Python wrapper and integrated it with the Apple CoreML models that are used for iOS environments and then integrated the application with the ARKit and AR aspects using the art assets/plane grid. We also used the Microsoft Custom Vision API to improve accuracy of the model for identification of status of the hardware pieces. 
 
 ## Accomplishments that I'm proud of
-We're super proud of the ability to create a tangible marketable solution that will help engage occasional movie-goers and increase the number of purchasing movie tickets per year. With streaming movie services now dominating the movie industry with an increase to 22% in 2017, we felt that having a creative solution using AR was necessary to showcase the importance of seeing movies in the theater. The theater experience allows you to fully immerse yourself in the movie and another world - without distractions and that's what we hope to remind movie-goers with this application. That they can always open the wARdrobe to step into their favorite movies if they please.
+We're super proud of the ability to create a tangible product that will empower engineers throughout the design and rapid prototyping process. With 81% of hardware engineers using paper and pen to record notes about products before pursuing mechanisms like 3D printing we wanted to create a product that would improve this efficiency. 
 
 ## What I learned
-We learned how to integrate Sketch components, Microsoft Azure, and CocoaPods into ARKit using XCode. We found that since AR is fairly new there isn't a great amount of documentation on using Cocoapods with AR which made it difficult to integrate the different components.
+We learned how to integrate Sketch components, TensorFlow ML models, CoreML models, Microsoft Custom Vision API, and CocoaPods into ARKit using XCode. 
 
 ## What's next for weScan
-The future vision for wARdrobe is creating 3D movie scenes that are almost indistinguishable from reality - immersing potential movie-goers into their prospective movie. Imagine stepping into the newest "Batman" and being able to view Wonder Woman and Batman fighting in detail right in front of you, the interactions of the environment, and experience all of the things they do in the movie - right from your home. We would also want to expand this experience by making it social. It would be great to see which of your friends have seen a movie in the past and also to take inspiration from other people's movie experiences.
+The future vision for weScan is having the products that are identified through Object Recognition pop up 3-D in Augmented Reality. Alongside, having specs that would include documentation that you could click on about the product in real-time. 
 
 <a href="http://tinypic.com?ref=jhg020" target="_blank"><img src="http://i65.tinypic.com/jhg020.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
