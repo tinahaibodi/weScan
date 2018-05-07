@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  CoreML in ARKit
+//  weScan
 //
-//  Created by Hanley Weng on 14/7/17.
-//  Copyright © 2017 CompanyName. All rights reserved.
+//  Created by Tina Haibodi on 05/05/18.
+//  Copyright © 2018 Hack WesCam. All rights reserved.
 //
 
 import UIKit
