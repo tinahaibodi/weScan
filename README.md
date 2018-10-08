@@ -39,6 +39,8 @@ The future vision for weScan is having the products that are identified through 
 <center><p><a href="http://tinypic.com?ref=aev537" target="_blank"><img src="http://i65.tinypic.com/aev537.png" border="0" alt="Image and video hosting by TinyPic"></a>
   
 <center><a href="http://tinypic.com?ref=j8ckcl" target="_blank"><img src="http://i67.tinypic.com/j8ckcl.png" border="0" alt="Image and video hosting by TinyPic"></a>
+  
+<center><a href="http://tinypic.com?ref=2qdpp48" target="_blank"><img src="http://i67.tinypic.com/2qdpp48.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 
 
